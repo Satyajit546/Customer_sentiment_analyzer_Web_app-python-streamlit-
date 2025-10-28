@@ -1,4 +1,4 @@
-# [Customer Feedback Sentiment Analyzer (Streamlit & VADER)](https://github.com/Satyajit546/Customer_sentiment_analyzer_Web_app-python-streamlit-/blob/main/web%20page%20image/sentiment%20Home%20.jpg)
+# [Customer Feedback Sentiment Analyzer (Streamlit & VADER)](https://sentiment-analyzer-w6brqz3pbkapyrisnlr7fweb.streamlit.app/?embed_options=dark_theme)
 
 ## 1.📝 Project Overview ##
 
